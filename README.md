@@ -128,7 +128,7 @@ Hybrid deep learning model for solar irradiance forecasting, improving short-ter
 
 | Period | Role | Company |
 |--------|------|---------|
-| Sep 2025 – Present | Software Engineer | Bern AI Lab, Hyderabad |
+| Oct 2025 – Present | Software Engineer | Bern AI Lab, Hyderabad |
 | Aug 2024 – Jan 2025 | Software Developer (Trainee) | Drut Technologies, Hyderabad |
 | Jul 2023 – Apr 2024 | Software Engineer (Trainee) | STMicroelectronics, Greater Noida |
 
